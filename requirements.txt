@@ -4,7 +4,7 @@ Mako==1.2.2
 MarkupSafe==0.23
 Pillow==9.3.0
 Python-Chart==1.39
-PyYAML==3.11
+PyYAML==5.4
 Werkzeug==2.3.8
 argparse==1.2.1
 decorator==3.4.0
