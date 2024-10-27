@@ -5,7 +5,7 @@ MarkupSafe==0.23
 Pillow==9.3.0
 Python-Chart==1.39
 PyYAML==5.4
-Werkzeug==3.0.3
+Werkzeug==3.0.6
 argparse==1.2.1
 decorator==3.4.0
 docutils==0.12
