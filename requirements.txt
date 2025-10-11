@@ -1,5 +1,5 @@
 Babel==2.9.1
-Jinja2==3.1.5
+Jinja2==3.1.6
 Mako==1.2.2
 MarkupSafe==0.23
 Pillow==9.3.0
